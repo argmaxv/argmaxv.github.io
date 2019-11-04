@@ -1,6 +1,6 @@
 ---
 title: "Seongmin. A. Park"
-date: 2019-11-03 22:22:22 -0400
+date: 2019-11-03 21:20:00 -0400
 categories: profile
 ---
 Details
